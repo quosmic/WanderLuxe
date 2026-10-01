@@ -231,29 +231,3 @@ Potential extensions include:
 This project is available for educational and portfolio purposes.
 
 ```
-
-### One change I'd make to the repository itself
-
-The current repository is called:
-
-> `DeltaMajorProject`
-
-That's understandable academically, but now that this is going on your **professional GitHub**, I'd rename it to:
-
-> **`WanderLuxe`**
-
-or, if you want something slightly more descriptive:
-
-> **`wanderluxe-accommodation-platform`**
-
-I'd choose **`WanderLuxe`** because it's clean and matches the actual application concept.
-
-Then the GitHub presentation becomes:
-
-> **WanderLuxe**  
-> Full-stack accommodation listing platform built with Node.js, Express, MongoDB, EJS, Cloudinary and Mapbox.
-
-That's **much stronger than "DeltaMajorProject"** when a recruiter sees it in your pinned repositories.
-
-Also, one important correction: the source code currently contains a few references to **"Wanderlust"** internally (for example, the signup flash message and Cloudinary folder), while your project branding has been **WanderLuxe**. That's fine functionally, but before we finalize the repo, I'd clean those naming remnants up so the project is consistently branded.
-```
